@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(93, 255, 220);
+}
+
+#n1{
+    color: rgb(255, 31, 31);
+    margin-left: 450px;
+    margin-top: 150px; 
+}
+
+#n2{
+    color: rgb(255, 31, 31);
+    margin-left: 450px;
+    margin-top: 20px; 
+}
+
+#selecao{
+    margin-left: 530px;
+    margin-top: 200px; 
+    border-radius: 50px;
+}
+
+#calc{
+    background-color: rgb(117, 0, 0);
+    color: rgb(255, 177, 177);
+}
